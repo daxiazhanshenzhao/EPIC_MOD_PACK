@@ -13,9 +13,38 @@
     </Synchronize>
     <Filter>
         <Include>
-            <Item>*</Item>
+            <!-- 相对于 FolderPair 根（pack）列出要同步的路径 -->
+            <Item>config/</Item>
+            <Item>config/**</Item>
+            <Item>defaultconfigs/</Item>
+            <Item>defaultconfigs/**</Item>
+            <Item>kubejs/</Item>
+            <Item>kubejs/**</Item>
+            <Item>kubejs/server_scripts/</Item>
+            <Item>kubejs/server_scripts/**</Item>
+            <Item>mods/</Item>
+            <Item>mods/**</Item>
+            <Item>resourcepacks/</Item>
+            <Item>resourcepacks/**</Item>
+            <Item>shaderpacks/</Item>
+            <Item>shaderpacks/**</Item>
+
+            <!-- 顶层需要保留的文件/目录（相对于 pair 根） -->
+            <Item>.vscode/</Item>
+            <Item>.vscode/**</Item>
+            <Item>LICENSE</Item>
+            <Item>README.md</Item>
+            <Item>SyncSettings.ffs_gui</Item>
+            <Item>.gitignore</Item>
         </Include>
-        <Exclude/>
+        <Exclude>
+            <!-- 排除由 jar 打包生成的 pw.toml 文件，例如 sodium.pw.toml -->
+            <!-- 全局排除，和专门针对 mods 目录的排除，确保不会同步任何 *.pw.toml -->
+            <Item>**/*.pw.toml</Item>
+            <Item>*.pw.toml</Item>
+            <Item>mods/*.pw.toml</Item>
+            <Item>mods/**/*.pw.toml</Item>
+        </Exclude>
         <SizeMin Unit="None">0</SizeMin>
         <SizeMax Unit="None">0</SizeMax>
         <TimeSpan Type="None">0</TimeSpan>
