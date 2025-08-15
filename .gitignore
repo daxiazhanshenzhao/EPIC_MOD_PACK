@@ -31,3 +31,7 @@
 
 # 保留 .gitignore 文件本身
 !.gitignore
+
+# 允许提交 pack 根目录下的元数据文件
+!pack/pack.toml
+!pack/options.txt

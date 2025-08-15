@@ -1,0 +1,13 @@
+name = "Epic_Mod_Pack"
+author = "Galaxy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "20e0d9661e3892cb3466103fe3f92e495f38a5e1ea8a36fd26def05726ef42ed"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.200"
