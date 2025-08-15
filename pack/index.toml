@@ -1,0 +1,331 @@
+hash-format = "sha256"
+
+[[files]]
+file = "EPICMODPACK.jar"
+hash = "499f6897d1837516680f3114072d8106e11c9adcd933fe5cf051b551089b0c99"
+
+[[files]]
+file = "EPICMODPACK.json"
+hash = "47efe11076117552c72a87ddbffb200f6e7aafd7e7dc4f137ad3924e6627ad68"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+
+[[files]]
+file = "config/curios-server.toml"
+hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
+
+[[files]]
+file = "config/fml.toml"
+hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "19b29c67fbda78767684a30301444f39086197a222cd34ef1f14fa8471669b56"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "fe878a2717a145cd890621eac5b3be1e1fd656f7ff9abc6e8d53f670d37474c4"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "539de8cbfff296efc01e6b7f9c932e9170ff90d866a7970c6e8c6cb62c038dfa"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96"
+
+[[files]]
+file = "downloads/log.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/main.js"
+hash = "3df46f0add819bf2602642215b5c62f0581ffdaaf97e77c80a8c4d966e05adcf"
+
+[[files]]
+file = "kubejs/config/client.json"
+hash = "de241e99c33070805a1f039d6edb46c67cd92c93c7787e177fa38d15ed9007da"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "bdfc2d5fbe14b78dfeadc04a3ca4e3b5a74dde9e13a786005e2399ca84bb251f"
+
+[[files]]
+file = "kubejs/server_scripts/main.js"
+hash = "42dda38174c2371fed6c3741042127c4dc5bc7e9dfd29ef73b9b4c77e4a9e20f"
+
+[[files]]
+file = "kubejs/startup_scripts/main.js"
+hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
+
+[[files]]
+file = "local/kubejs/dev.json"
+hash = "b828abc7e7eb696368c69f7e30226730dd0ef693492f0437ce0499cd13422e30"
+
+[[files]]
+file = "log4j2.xml"
+hash = "6f604b776eccd927c6c4981eda828a4b4120ed4394c90b854cba1b9138acb81a"
+
+[[files]]
+file = "logs/2025-08-15-1.log.gz"
+hash = "22ec8c9653fcc2bc1274dd3ae05f419ac40d45db6d75db6f1745dfcd33d7a8ac"
+
+[[files]]
+file = "logs/2025-08-15-2.log.gz"
+hash = "7973bc79bdd0ea053327990315b5a8ef05763ccfa5ab279e065275f10d3efb13"
+
+[[files]]
+file = "logs/debug-1.log.gz"
+hash = "1831a031c5e7d246ba62d559b25cee89dfcd29e432e5accab4d2ede87c14c920"
+
+[[files]]
+file = "logs/debug.log"
+hash = "beef7d06feb6bdfa2de566541a44352bcd1b9ec6a1075be82b427835a5dfef8b"
+
+[[files]]
+file = "logs/kubejs/client.log"
+hash = "bbc0aa582842b713b6ec23828d102160b81516c7d52e6b59c8900ac0f669e9a7"
+
+[[files]]
+file = "logs/kubejs/server.log"
+hash = "066b938072d288356f28129a8528270d17db976d2c07f48247975df84d1d4580"
+
+[[files]]
+file = "logs/kubejs/startup.log"
+hash = "fd15d228d8b8aadc5d4a56afe197265e4dbc8be7a5e8fe4a4465d263b1e31800"
+
+[[files]]
+file = "logs/latest.log"
+hash = "95e0e8ad1f6186a3539de247b48055b8b987d4af18c2c028471e2a3618e4c528"
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "6b3f722168fa57e23fca5441d9b74a11194d9252625d6bf0898c4d212f99380a"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "23291e2fb4b1fd48cbfc28ec2e50a76a3d908c4477e6164698406a4c953935ae"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "b2e4e9c22fa6dbdedf14fefc64ae45ab6354ff00246e8c950d720ea9198eb75e"
+metafile = true
+
+[[files]]
+file = "mods/rhino-2101.2.7-build.77.jar"
+hash = "d264f5fef73e3b74b020ea2137e4eb1cc77ad1ab5cf426ac636c669fa6890ff0"
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "natives-windows-x86_64/OpenAL.dll"
+hash = "0630aa42492f78126da1c4d99769632e03c55b2e63b050efe7e3005e07e3e6fc"
+
+[[files]]
+file = "natives-windows-x86_64/glfw.dll"
+hash = "affa7e54eb0dedce4a5721c327c1a16035edbbd039cd402e08107d6d2d55eb1a"
+
+[[files]]
+file = "natives-windows-x86_64/jemalloc.dll"
+hash = "9abf0095066ebab37b78968e11370a8078313e48cb5be8eda01f67623c6a6248"
+
+[[files]]
+file = "natives-windows-x86_64/jna8387054849658947109.dll"
+hash = "69c45175ecfd25af023f96ac0bb2c45e6a95e3ba8a5a50ee7969ccab14825c44"
+
+[[files]]
+file = "natives-windows-x86_64/jna8387054849658947109.dll.x"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "natives-windows-x86_64/lwjgl.dll"
+hash = "a39adf52947fafd954c2a86ce031abb8c59825f7ee50337ac8c41e4280abe82d"
+
+[[files]]
+file = "natives-windows-x86_64/lwjgl_opengl.dll"
+hash = "fe200dc96ab31237a52facd6345d31f9740ef16dd411e5f9be014eaa30f89fb6"
+
+[[files]]
+file = "natives-windows-x86_64/lwjgl_stb.dll"
+hash = "de03f38f8c7471b4924aa8bdf8724c181d1a7c20428dbce2ed301877e1d387e4"
+
+[[files]]
+file = "options.txt"
+hash = "37400d36e6c9c0f340770b2d22021d95cf955273e6e53e271e26c4c4841e1887"
+
+[[files]]
+file = "saves/新的世界/DIM-1/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/新的世界/DIM-1/data/raids.dat"
+hash = "2ed2da9f274517c6d2fa79724c0384e79ce6d9671bbd1bf6c83b82757f355b13"
+
+[[files]]
+file = "saves/新的世界/DIM1/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/新的世界/DIM1/data/raids_end.dat"
+hash = "2ed2da9f274517c6d2fa79724c0384e79ce6d9671bbd1bf6c83b82757f355b13"
+
+[[files]]
+file = "saves/新的世界/advancements/e0a92b8c-a532-3506-88dc-756f50971af9.json"
+hash = "76e5db3ae47de55b43883271ae8af273a481dab76b39e0c89f6aa1efa37e083c"
+
+[[files]]
+file = "saves/新的世界/data/neoforge_data_attachments.dat"
+hash = "95486bd4cbd73d4d98f343e42a5792ef5315214015acca508842844d73247562"
+
+[[files]]
+file = "saves/新的世界/data/raids.dat"
+hash = "2ed2da9f274517c6d2fa79724c0384e79ce6d9671bbd1bf6c83b82757f355b13"
+
+[[files]]
+file = "saves/新的世界/data/random_sequences.dat"
+hash = "9fa92d4e5f558514ab66b6e919220b42afb48365908df0f3ba943ca013cb6be1"
+
+[[files]]
+file = "saves/新的世界/entities/r.-1.-1.mca"
+hash = "a67d0531832629ef0001229e96b0764ea714c2863080a8c1447d498144cacc8c"
+
+[[files]]
+file = "saves/新的世界/entities/r.-1.0.mca"
+hash = "72428a1bd289cbe63a29c5bcc68e0b350ad70b3f421e11883d5de0c7e9830281"
+
+[[files]]
+file = "saves/新的世界/entities/r.0.-1.mca"
+hash = "68ce470d3e3f0e6d62582f12b907c67ae7c2e93e918967eed3f8176b9540e2e3"
+
+[[files]]
+file = "saves/新的世界/entities/r.0.0.mca"
+hash = "709a7a76977f9db8642ee7ffe66e2511212b7302168d843fccfd5db2ec9b38a9"
+
+[[files]]
+file = "saves/新的世界/icon.png"
+hash = "36d70149dc0c065d31dc23de0bb59fd4dbe307fa68920de70748e5148e97e6ba"
+
+[[files]]
+file = "saves/新的世界/kubejs_persistent_data.nbt"
+hash = "0c5f40fb642781709ce4bd9b2443628b345a2abc34cff20dea6564ca014875f9"
+
+[[files]]
+file = "saves/新的世界/level.dat"
+hash = "0f93f119c42975ea946d97b62c513b073fcbd3ff5506598d8e29d0a088a3fa98"
+
+[[files]]
+file = "saves/新的世界/level.dat_old"
+hash = "413697adc2876361d0fe3768ab62adb6a6786924b41372e680ec6587e6156390"
+
+[[files]]
+file = "saves/新的世界/playerdata/e0a92b8c-a532-3506-88dc-756f50971af9.dat"
+hash = "a5fc38a78cfcd9b23b15ab1c273d09ee92b43fac25cd7b0d64807d7afd159751"
+
+[[files]]
+file = "saves/新的世界/playerdata/e0a92b8c-a532-3506-88dc-756f50971af9.dat_old"
+hash = "f93aa460a59d9ecae22dccf4a61c080997692e047251f16a744129c6a2027bfc"
+
+[[files]]
+file = "saves/新的世界/poi/r.-1.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/新的世界/poi/r.-1.0.mca"
+hash = "4571623c82b21e0b0d830f2d706adbc2622dfee59124752e6f7e2aa908077cfb"
+
+[[files]]
+file = "saves/新的世界/poi/r.0.-1.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/新的世界/poi/r.0.0.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "saves/新的世界/region/r.-1.-1.mca"
+hash = "fd7e68eafc67ad5fa136f27b3e70a29deb8ce483941783a25dc92e8b074f8398"
+
+[[files]]
+file = "saves/新的世界/region/r.-1.0.mca"
+hash = "a96eeae820fb468cf8783729415e247b6cc873c1c358523ede0c5a4db23dd91a"
+
+[[files]]
+file = "saves/新的世界/region/r.0.-1.mca"
+hash = "1ab6cc53782b5a86aacc3dba816565fcef3941115b4759091f5f4acd5c8570a4"
+
+[[files]]
+file = "saves/新的世界/region/r.0.0.mca"
+hash = "2b9555712787558dc040d69c242e55ffbdff4620a33ef16190c10a96730c9622"
+
+[[files]]
+file = "saves/新的世界/serverconfig/readme.txt"
+hash = "b1022ab932f8f0ea0cf78d9f312e95b85a4f96f59ca430e63f9a435e512d1186"
+
+[[files]]
+file = "saves/新的世界/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "saves/新的世界/stats/e0a92b8c-a532-3506-88dc-756f50971af9.json"
+hash = "dfc99f2a7fa8f4fc2afbe569b0dacacce87b24c6de5a0332bc0952951a74a380"
+
+[[files]]
+file = "usercache.json"
+hash = "7548854779519acf0ce6464a6c8411208a73cbef4ff11a727193eddedb8ad89d"
+
+[[files]]
+file = "usernamecache.json"
+hash = "c8954824ed48c2552671139bacd1f0c349e77527824f70574bb6674b903cb27a"
