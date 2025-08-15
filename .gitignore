@@ -1,3 +1,33 @@
-/wiki/.vitepress/dist
-/wiki/.vitepress/cache
-/wiki/node_modules
+# 忽略所有内容
+*
+
+# 保留 pack 根目录以便递归检查
+!pack/
+
+# 保留以下子文件夹及其所有内容
+!pack/config/
+!pack/config/**
+!pack/defaultconfigs/
+!pack/defaultconfigs/**
+!pack/kubejs/
+!pack/kubejs/**
+!pack/kubejs/server_scripts/
+!pack/kubejs/server_scripts/**
+!pack/mods/
+!pack/mods/**
+!pack/resourcepacks/
+!pack/resourcepacks/**
+!pack/shaderpacks/
+!pack/shaderpacks/**
+
+# 保留 .vscode 下的任务配置以便共享任务
+!.vscode/
+!.vscode/**
+
+# 保留其他文件
+!LICENSE
+!README.md
+!SyncSettings.ffs_gui
+
+# 保留 .gitignore 文件本身
+!.gitignore
